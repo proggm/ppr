@@ -1,0 +1,8 @@
+E:\проекты\prr\prr\bin\Debug\prr.exe.config
+E:\проекты\prr\prr\bin\Debug\prr.exe
+E:\проекты\prr\prr\bin\Debug\prr.pdb
+E:\проекты\prr\prr\obj\Debug\prr.csproj.AssemblyReference.cache
+E:\проекты\prr\prr\obj\Debug\prr.csproj.SuggestedBindingRedirects.cache
+E:\проекты\prr\prr\obj\Debug\prr.csproj.CoreCompileInputs.cache
+E:\проекты\prr\prr\obj\Debug\prr.exe
+E:\проекты\prr\prr\obj\Debug\prr.pdb
